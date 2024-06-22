@@ -17,6 +17,7 @@ _Hogeschool Leiden, 2021 - nu_
 
 __VWO profiel NT__  
 _Fioretti college, 2013 - 2019_  
+Extra vak: Informatica
 <!--
 **freekweijers/freekweijers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
