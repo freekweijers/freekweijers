@@ -19,7 +19,7 @@ __VWO profiel NT__
 _Fioretti college, 2013 - 2019_  
 Extra vak: Informatica
 
-📫 Neem contact op
+### 📫 Neem contact op
 U kunt mij het beste [een bericht sturen](http://imessage://31638088688).
 
 <!--
