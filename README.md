@@ -20,7 +20,7 @@ _Fioretti college, 2013 - 2019_
 Extra vak: Informatica
 
 ### 📫 Neem contact op
-U kunt mij het beste [een bericht sturen](imessage://31638088688/).
+U kunt mij het beste [een bericht sturen](https://wa.me/31638088688).
 
 <!--
 **freekweijers/freekweijers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
