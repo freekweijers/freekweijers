@@ -3,6 +3,7 @@ Software engineering student
 
 ### 🚀 Over Mij
 Ik ben tweedejaars informaticastudent aan Hogeschool Leiden. Ik heb fullstack apps mogen ontwikkelen in een team voor verschillende opdrachtgevers. Bekijk een van mijn projecten om meer te weten te komen.
+Momenteel liggen mijn interesses bij algoritmisch handelen in forex.
 
 ### 🔧 Vaardigheden
 - __Talen:__ TypeScript, Java, Python (Machine learning)  
@@ -18,6 +19,11 @@ _Hogeschool Leiden, 2021 - nu_
 __VWO profiel NT__  
 _Fioretti college, 2013 - 2019_  
 Extra vak: Informatica
+
+### 🗣 Spreektalen
+__Nederlands__: Moedertaal
+__Engels__: Vloeiend
+__Duits__: Basiskennis
 
 ### 📫 Neem contact op
 U kunt mij het beste [een bericht sturen](https://wa.me/31638088688).
