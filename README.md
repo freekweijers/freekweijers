@@ -21,9 +21,9 @@ _Fioretti college, 2013 - 2019_
 Extra vak: Informatica
 
 ### 🗣 Spreektalen
-__Nederlands__: Moedertaal
-__Engels__: Vloeiend
-__Duits__: Basiskennis
+__Nederlands__: Moedertaal  
+__Engels__: Vloeiend  
+__Duits__: Basiskennis  
 
 ### 📫 Neem contact op
 U kunt mij het beste [een bericht sturen](https://wa.me/31638088688).
