@@ -3,7 +3,6 @@ Software engineering student
 
 ### 🚀 Over Mij
 Ik ben derdejaars informaticastudent aan Hogeschool Leiden. Ik heb fullstack apps mogen ontwikkelen in een team voor verschillende opdrachtgevers. Bekijk een van mijn projecten om meer te weten te komen.
-Momenteel liggen mijn interesses bij algoritmisch handelen in forex.
 
 ### 🔧 Vaardigheden
 - __Talen:__ TypeScript, Java, Python (Machine learning)  
