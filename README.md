@@ -1,14 +1,14 @@
 ## 👋 Hallo, ik ben Freek Weijers!
-Software engineering student
+Software Engineering student
 
 ### 🚀 Over Mij
-Ik ben derdejaars informaticastudent aan Hogeschool Leiden. Ik heb fullstack apps mogen ontwikkelen in een team voor verschillende opdrachtgevers. Bekijk een van mijn projecten om meer te weten te komen.
+Ik ben vierdejaars informaticastudent aan Hogeschool Leiden. Ik heb fullstack apps mogen ontwikkelen in een team voor verschillende opdrachtgevers. Bekijk een van mijn projecten om meer te weten te komen.
 
 ### 🔧 Vaardigheden
 - __Talen:__ TypeScript, Java, Python (Machine learning)  
-- __Frameworks & Bibliotheken:__ Angular, Spring  
-- __DevOps:__ Docker, GCP  
-- __Database:__ PostgreSQL, Firebase  
+- __Frameworks & Bibliotheken:__ Next.js, Angular, Spring  
+- __DevOps:__ Docker, Azure, AWS, GCP
+- __Database:__ PostgreSQL, Firebase, Neo4j  
 - __Tools: Git,__ GitHub, IntelliJ, Bouml  
 
 ### 🎓 Opleiding
