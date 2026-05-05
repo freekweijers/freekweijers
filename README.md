@@ -5,7 +5,7 @@ Software Engineering student
 Ik ben vierdejaars informaticastudent aan Hogeschool Leiden. Ik heb fullstack apps mogen ontwikkelen in een team voor verschillende opdrachtgevers. Bekijk een van mijn projecten om meer te weten te komen.
 
 ### 🔧 Vaardigheden
-- __Talen:__ TypeScript, Java, Python (Machine learning)  
+- __Talen:__ TypeScript, Java, Python  
 - __Frameworks & Bibliotheken:__ Next.js, Angular, Spring  
 - __DevOps:__ Docker, Azure, AWS, GCP
 - __Database:__ PostgreSQL, Firebase, Neo4j  
